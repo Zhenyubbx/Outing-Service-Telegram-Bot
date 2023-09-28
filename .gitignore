@@ -1,0 +1,30 @@
+ExpenditureTrackerBot/ER diagram.drawio
+
+#Requirements
+Requirements.docx
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+target/
+
+# logs
+/logs/
+*/*/logs/
+
+*.db
+*.csv
+*.pyc
+*.log
+
+/telegram-bot/venv/
+/.vscode/
+telegram-bot/.env
+/telegram-bot/logs/
+/pom.xml
+/deployment/
